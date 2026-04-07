@@ -1,0 +1,5 @@
+id,email,status,amountCents
+1,a@example.com,NEW,1200
+2,b@example.com,PAID,3500
+3,c@example.com,FAILED,500
+4,юююю@example.com,    ,1200
